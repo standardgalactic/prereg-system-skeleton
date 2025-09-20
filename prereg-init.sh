@@ -34,6 +34,12 @@ declare -A CLAIMS=(
   ["geometry-hysteresis"]="Geometry–performance hysteresis in RSVP connectors"
   ["dual-use-entropy"]="Entropy production as dual-use capability metric"
   ["human-projectors"]="Humans as lossy entropy-respecting projectors"
+  ["functorial-mapping"]="Connector functor as non-faithful entropy projector"
+  ["rate-distortion"]="Patch MSE as RSVP entropy budget consumption"
+  ["negentropic-corridors"]="Restricted isometry as negentropic channels"
+  ["conditional-knor"]="Text-conditioned KNOR improves QA accuracy"
+  ["procrustes-failure"]="Irreversible entropy production at connectors"
+  ["sheaf-consistency"]="Local reconstructions glue via sheaf maps"
 )
 
 ###############################################################################
